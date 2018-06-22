@@ -1,4 +1,5 @@
 <?php
+//Git すげええええええ
 require 'specialchar.php';
 $name = '';                                                                     //初期化
 $tell = '';                                                                     //初期化
